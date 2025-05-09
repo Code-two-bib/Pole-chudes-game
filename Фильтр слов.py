@@ -10,4 +10,3 @@ def filt():
                 text.append(b)
     a.close()
     return text
-
